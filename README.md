@@ -7,8 +7,7 @@ If not Palindrome then tells the user from how many days he missed it
 
 
 Tech Stack used -
-
-  HTM
-  CSS
-  Javascript
+  HTMl 
+  CSS 
+  javaScript
   
